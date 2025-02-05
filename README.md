@@ -1,4 +1,4 @@
-# Certbot auth/cleanup hook
+# Certbot auth/cleanup hook (Cloudflare)
 auth_hook.py, auth_hook_cleanup.py by sonnet  
 # 사용법
 ```bash
